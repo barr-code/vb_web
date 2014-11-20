@@ -1,0 +1,41 @@
+.icon {
+	float:left;
+	opacity: .4;
+}
+
+#github-icon {
+	height: 23.5%;
+}
+
+#email-icon {
+	height: 23%;
+}
+
+#twitter-icon {
+	height: 23.5%;
+}
+
+#art-icon {
+	height: 23%;
+}
+
+#twitter-icon, #github-icon {
+	padding-left: 15%;
+}
+
+#email-icon, #art-icon {
+	padding-left: 35%;
+}
+
+.icon:hover {
+	opacity: 1;
+}
+
+.name {
+	clear: both;
+}
+
+#name-icon {
+	height: 50%;
+	margin-left: 32%;
+}
