@@ -1,5 +1,5 @@
 body {
-	background-color: gray;
+	background-color: #a68585;
 }
 
 .icon {
@@ -12,6 +12,7 @@ body {
 }
 
 #email-icon {
+	padding-top: .2%;
 	height: 23%;
 }
 
@@ -20,15 +21,16 @@ body {
 }
 
 #art-icon {
+	padding-top: .3%;
 	height: 23%;
 }
 
 #twitter-icon, #github-icon {
-	padding-left: 15%;
+	padding-left: 21%;
 }
 
 #email-icon, #art-icon {
-	padding-left: 35%;
+	padding-left: 30%;
 }
 
 .icon:hover {
@@ -40,6 +42,7 @@ body {
 }
 
 #name-icon {
+	padding-top: .7%;
 	height: 50%;
-	margin-left: 32%;
+	margin-left: 35.5%;
 }
