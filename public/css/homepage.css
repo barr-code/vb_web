@@ -1,44 +1,39 @@
 body {
 	background-color: #a68585;
+	text-align: center;
 }
 
 .icon {
 	float:left;
 	opacity: .4;
+	padding-top: 20%;
+	padding-left: 4%;
 }
 
 #github-icon {
 	height: 23.5%;
+	width: 13%;
 }
 
 #email-icon {
-	padding-top: .2%;
 	height: 23%;
+	width: 12%;
 }
 
 #twitter-icon {
 	height: 23.5%;
+	width: 12%;
 }
 
 #art-icon {
-	padding-top: .3%;
 	height: 23%;
-}
-
-#twitter-icon, #github-icon {
-	padding-left: 21%;
-}
-
-#email-icon, #art-icon {
-	padding-left: 30%;
-}
-
-.name {
-	clear: both;
+	width: 12%;
 }
 
 #name-icon {
-	padding-top: .7%;
+	float: left;
+	padding-top: 12.5%;
+	padding-left: 4%;
 	height: 50%;
-	margin-left: 35.5%;
+	width: 25%;
 }
