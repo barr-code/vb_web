@@ -11,22 +11,18 @@ body {
 }
 
 #github-icon {
-	height: 23.5%;
 	width: 13%;
 }
 
 #email-icon {
-	height: 23%;
 	width: 12%;
 }
 
 #twitter-icon {
-	height: 23.5%;
 	width: 12%;
 }
 
 #art-icon {
-	height: 23%;
 	width: 12%;
 }
 
@@ -34,6 +30,5 @@ body {
 	float: left;
 	padding-top: 12.5%;
 	padding-left: 4%;
-	height: 50%;
 	width: 25%;
 }
